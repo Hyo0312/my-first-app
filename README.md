@@ -5,7 +5,14 @@
 
 print(This is my first app on sreamlit")
 
+- Item one
+- Item two
+  - Nested item
 
+```python
+def hello():
+    print("Hello, world!")
+```
 
 ```python
 def hello():
