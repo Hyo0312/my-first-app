@@ -5,6 +5,14 @@
 
 print(This is my first app on sreamlit")
 
+
+
+```python
+def hello():
+    print("Hello, world!")
+```
+
+
 | Column A | Column B |
 |----------|----------|
 | Cell 1   | Cell 2   |
